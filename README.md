@@ -1,7 +1,7 @@
-# RSK Demo Code Snippets
+# Rootstock Demo Code Snippets
 
 A collection of code snippets demonstrating how to do
-various things on [RSK](https://developers.rsk.co/).
+various things on [Rootstock](https://developers.rsk.co/).
 
 ## How to use this repo
 
